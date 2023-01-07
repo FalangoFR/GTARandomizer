@@ -1,0 +1,17 @@
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\bin\Debug\net6.0-windows\RandomFromList.exe
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\bin\Debug\net6.0-windows\RandomFromList.deps.json
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\bin\Debug\net6.0-windows\RandomFromList.runtimeconfig.json
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\bin\Debug\net6.0-windows\RandomFromList.dll
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\bin\Debug\net6.0-windows\RandomFromList.pdb
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.csproj.AssemblyReference.cache
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.Form1.resources
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.csproj.GenerateResource.cache
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.AssemblyInfoInputs.cache
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.AssemblyInfo.cs
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.csproj.CoreCompileInputs.cache
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.dll
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\refint\RandomFromList.dll
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.pdb
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\RandomFromList.genruntimeconfig.cache
+C:\Users\Jusuf\source\repos\RandomFromList\RandomFromList\obj\Debug\net6.0-windows\ref\RandomFromList.dll
