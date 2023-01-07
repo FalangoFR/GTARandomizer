@@ -1,0 +1,86 @@
+Pistol kills 	251
+Combat Pistol kills 	191
+AP Pistol kills 	1,780
+Pistol .50 kills 	176
+SNS Pistol kills 	109
+Heavy Pistol kills 	102
+Vintage Pistol kills 	169
+Marksman Pistol kills 	116
+Heavy Revolver kills 	103
+Pistol MK II kills 	251
+SNS Pistol MK II kills 	119
+Heavy Revolver MK II kills 	156
+Double-Action Revolver kills 	118
+Navy Revolver kills 	103
+Ceramic Pistol kills 	156
+Perico Pistol kills 	100
+Sawed-Off Shotgun kills 	101
+Pump Shotgun kills 	141
+Assault Shotgun kills 	2,420
+Bullpup Shotgun kills 	123
+Heavy Shotgun kills 	130
+Double Barrel Shotgun kills 	101
+Sweeper Shotgun kills 	107
+Pump Shotgun MK II kills 	297
+Combat Shotgun kills 	108
+Micro SMG kills 	1,076
+SMG kills 	1,253
+Assault SMG kills 	149
+Gusenberg Sweeper kills 	163
+Combat PDW kills 	243
+Machine Pistol kills 	486
+Mini SMG kills 	131
+SMG MK II kills 	1,253
+MG kills 	108
+Combat MG kills 	1,788
+Combat MG MK II kills 	1,788
+Assault Rifle kills 	1,387
+Carbine Rifle kills 	1,351
+Advanced Rifle kills 	100
+Special Carbine kills 	319
+Musket kills 	7
+Compact Rifle kills 	276
+Marksman Rifle kills 	512
+Special Carbine MK II kills 	1,143
+Bullpup Rifle MK II kills 	394
+Assault Rifle MK II kills 	1,387
+Carbine Rifle MK II kills 	1,351
+Sniper Rifle kills 	391
+Heavy Sniper kills 	144
+Heavy Sniper MK II kills 	144
+Marksman Rifle MK II kills 	138
+Military Rifle kills 	591
+Heavy Rifle kills 	359
+Grenade Launcher kills 	104
+RPG kills 	54
+Firework Launcher kills 	1
+Homing Launcher kills 	61
+Minigun kills 	212
+Compact Grenade Launcher kills 	33
+Grenade kills 	47
+Sticky Bomb kills 	41
+Proximity Mine kills 	7
+Tear Gas kills 	3
+Molotov kills 	33
+Pipe Bomb kills 	4
+Unarmed kills 	542
+Knife kills 	8
+Nightstick kills 	1
+Hammer kills 	2
+Baseball Bat kills 	1
+Crowbar kills 	4
+Golf Club kills 	9
+Bottle kills 	1
+Antique Cavalry Dagger kills 	1
+Hatchet kills 	3
+Flashlight kills 	1
+Switchblade kills 	18
+Pipe Wrench kills 	1
+Battle Axe kills 	1
+Stone Hatchet kills 	148
+Unholy Hellbringer kills 	55
+Widowmaker kills 	24
+Up-n-Atomizer kills 	8
+Precision Rifle kills 	115
+Service Carbine kills 	213
+WM 29 Pistol kills 	20
