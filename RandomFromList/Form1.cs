@@ -9,11 +9,20 @@ namespace RandomFromList
 
         private void btnRandom_Click(object sender, EventArgs e)
         {
-            var carFile = File.ReadAllLines("WeaponsList.txt");
-            var carList = new List<string>(carFile);
+            var weaponFile = File.ReadAllLines("WeaponsList.txt");
+            var weaponList = new List<string>(weaponFile);
             var random = new Random();
-            int index = random.Next(carList.Count);
-            txtResult.Text = carList[index];
+            int index = random.Next(weaponList.Count);
+            txtResult.Text = weaponList[index];
+        }
+
+        private void btnRandomCar_Click(object sender, EventArgs e)
+        {
+            var vehicleFile = File.ReadAllLines("VehicleList.txt");
+            var vehicleList = new List<string>(vehicleFile);
+            var random = new Random();
+            int index = random.Next(vehicleList.Count);
+            txtResult.Text = vehicleList[index];
         }
     }
 }

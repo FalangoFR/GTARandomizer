@@ -1,0 +1,86 @@
+Pistol
+Combat Pistol
+AP Pistol
+Pistol .50
+SNS Pistol
+Heavy Pistol
+Vintage Pistol
+Marksman Pistol
+Heavy Revolver
+Pistol MK II
+SNS Pistol MK II
+Heavy Revolver MK II
+Double-Action Revolver
+Navy Revolver
+Ceramic Pistol
+Perico Pistol
+Sawed-Off Shotgun
+Pump Shotgun
+Assault Shotgun
+Bullpup Shotgun
+Heavy Shotgun
+Double Barrel Shotgun
+Sweeper Shotgun
+Pump Shotgun MK II
+Combat Shotgun
+Micro SMG
+SMG
+Assault SMG
+Gusenberg Sweeper
+Combat PDW
+Machine Pistol
+Mini SMG
+SMG MK II
+MG
+Combat MG
+Combat MG MK II
+Assault Rifle
+Carbine Rifle
+Advanced Rifle
+Special Carbine
+Musket
+Compact Rifle
+Marksman Rifle
+Special Carbine MK II
+Bullpup Rifle MK II
+Assault Rifle MK II
+Carbine Rifle MK II
+Sniper Rifle
+Heavy Sniper
+Heavy Sniper MK II
+Marksman Rifle MK II
+Military Rifle
+Heavy Rifle
+Grenade Launcher
+RPG
+Firework Launcher
+Homing Launcher
+Minigun
+Compact Grenade Launcher
+Grenade
+Sticky Bomb
+Proximity Mine
+Tear Gas
+Molotov
+Pipe Bomb
+Unarmed
+Knife
+Nightstick
+Hammer
+Baseball Bat
+Crowbar
+Golf Club
+Bottle
+Antique Cavalry Dagger
+Hatchet
+Flashlight
+Switchblade
+Pipe Wrench
+Battle Axe
+Stone Hatchet
+Unholy Hellbringer
+Widowmaker
+Up-n-Atomizer
+Precision Rifle
+Service Carbine
+WM 29 Pistol

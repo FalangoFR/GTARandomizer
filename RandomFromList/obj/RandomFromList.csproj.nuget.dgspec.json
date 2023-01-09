@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jusuf\\source\\repos\\RandomFromList\\RandomFromList\\RandomFromList.csproj": {}
+    "C:\\Users\\Jusuf\\Documents\\GitHub\\GTARandomizer\\RandomFromList\\RandomFromList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jusuf\\source\\repos\\RandomFromList\\RandomFromList\\RandomFromList.csproj": {
+    "C:\\Users\\Jusuf\\Documents\\GitHub\\GTARandomizer\\RandomFromList\\RandomFromList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jusuf\\source\\repos\\RandomFromList\\RandomFromList\\RandomFromList.csproj",
+        "projectUniqueName": "C:\\Users\\Jusuf\\Documents\\GitHub\\GTARandomizer\\RandomFromList\\RandomFromList.csproj",
         "projectName": "RandomFromList",
-        "projectPath": "C:\\Users\\Jusuf\\source\\repos\\RandomFromList\\RandomFromList\\RandomFromList.csproj",
+        "projectPath": "C:\\Users\\Jusuf\\Documents\\GitHub\\GTARandomizer\\RandomFromList\\RandomFromList.csproj",
         "packagesPath": "C:\\Users\\Jusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jusuf\\source\\repos\\RandomFromList\\RandomFromList\\obj\\",
+        "outputPath": "C:\\Users\\Jusuf\\Documents\\GitHub\\GTARandomizer\\RandomFromList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
