@@ -107,5 +107,15 @@ Infernus
 Omnis e-GT
 Oppressor MKII
 Toreador
-
+V-65 Molotok
+LF-22 Starling
+Pyro
+Rogue
+Akula
+FH-1 Hunter
+Ramp Buggy
+Blazer Aqua
+Crusader
+Frogger
+Hydra
 
