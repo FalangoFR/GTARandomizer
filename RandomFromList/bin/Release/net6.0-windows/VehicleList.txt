@@ -118,6 +118,7 @@ Blazer Aqua
 Crusader
 Frogger
 Hydra
+Entity MT
 Sparrow
 Delivery Bike (Manchez Scout)
 Speedo Custom
