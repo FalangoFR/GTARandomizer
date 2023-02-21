@@ -28,21 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnRandom = new System.Windows.Forms.Button();
+            this.btnRandomWeapon = new System.Windows.Forms.Button();
             this.txtResult = new System.Windows.Forms.TextBox();
             this.btnRandomVehicle = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // btnRandom
+            // btnRandomWeapon
             // 
-            this.btnRandom.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnRandom.Location = new System.Drawing.Point(12, 55);
-            this.btnRandom.Name = "btnRandom";
-            this.btnRandom.Size = new System.Drawing.Size(125, 25);
-            this.btnRandom.TabIndex = 0;
-            this.btnRandom.Text = "Random Weapon";
-            this.btnRandom.UseVisualStyleBackColor = true;
-            this.btnRandom.Click += new System.EventHandler(this.btnRandom_Click);
+            this.btnRandomWeapon.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnRandomWeapon.Location = new System.Drawing.Point(12, 55);
+            this.btnRandomWeapon.Name = "btnRandomWeapon";
+            this.btnRandomWeapon.Size = new System.Drawing.Size(125, 25);
+            this.btnRandomWeapon.TabIndex = 0;
+            this.btnRandomWeapon.Text = "Random Weapon";
+            this.btnRandomWeapon.UseVisualStyleBackColor = true;
+            this.btnRandomWeapon.Click += new System.EventHandler(this.btnRandomWeapon_Click);
             // 
             // txtResult
             // 
@@ -76,7 +76,7 @@
             this.ClientSize = new System.Drawing.Size(284, 99);
             this.Controls.Add(this.btnRandomVehicle);
             this.Controls.Add(this.txtResult);
-            this.Controls.Add(this.btnRandom);
+            this.Controls.Add(this.btnRandomWeapon);
             this.Name = "Form1";
             this.Text = "Random Weapon";
             this.ResumeLayout(false);
@@ -86,7 +86,7 @@
 
         #endregion
 
-        private Button btnRandom;
+        private Button btnRandomWeapon;
         private TextBox txtResult;
         private Button btnRandomVehicle;
     }
