@@ -98,8 +98,11 @@ Vagner
 Coquette Classic 2
 Emerus
 Krieger
-Euros
+Euros 1
 Thrax
+Euros 2
+Euros 3
+Nightshade
 Entity XXR
 Sugoi
 Kamacho
