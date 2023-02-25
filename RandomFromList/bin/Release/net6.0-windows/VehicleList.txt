@@ -104,6 +104,7 @@ Euros 2
 Euros 3
 Nightshade
 FMJ
+ETR1
 Entity XXR
 Sugoi
 Kamacho
