@@ -8,7 +8,7 @@ Zentorno
 Stromberg
 Kanjo SJ
 Specter Custom
-Elegy RH8 1
+Elegy Retro Custom 1
 Dominator GTT
 Ellie
 Toros
@@ -28,7 +28,7 @@ Sentinel Classic
 Infernus Classic
 Viseris
 GT500
-Elegy Retro Custom 1 (Dark Silver)
+Elegy Retro Custom 2 (Dark Silver)
 Furia
 Torero XO
 Komoda
@@ -39,11 +39,11 @@ Vamos
 Hotring Sabre
 Gauntlet Classic Custom
 Gauntlet Classic 2
-Elegy Retro Custom 2
+Elegy Retro Custom 3
 Sanctus
 Gargoyle
+Elegy RH8 1
 Elegy RH8 2
-Elegy RH8 3
 Banshee Topless 1
 Banshee Topless 2
 Banshee
