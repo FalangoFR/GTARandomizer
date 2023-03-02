@@ -105,6 +105,7 @@ Euros 3
 Nightshade
 FMJ
 ETR1
+Hermes
 Entity XXR
 Sugoi
 Kamacho
