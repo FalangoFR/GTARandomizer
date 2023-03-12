@@ -106,6 +106,9 @@ Nightshade
 FMJ
 ETR1
 Hermes
+Tigon
+Calico GTF
+Hotring Everon
 Entity XXR
 Sugoi
 Kamacho
