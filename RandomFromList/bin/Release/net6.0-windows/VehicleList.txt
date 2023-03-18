@@ -109,6 +109,7 @@ Hermes
 Tigon
 Calico GTF
 Hotring Everon
+Virtue
 Entity XXR
 Sugoi
 Kamacho
