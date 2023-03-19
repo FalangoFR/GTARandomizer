@@ -110,6 +110,7 @@ Tigon
 Calico GTF
 Hotring Everon
 Virtue
+Tyrant
 Entity XXR
 Sugoi
 Kamacho
