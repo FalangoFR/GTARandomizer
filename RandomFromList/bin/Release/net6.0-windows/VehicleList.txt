@@ -111,6 +111,8 @@ Calico GTF
 Hotring Everon
 Virtue
 Tyrant
+Rebla GTS
+RE-7B
 Entity XXR
 Sugoi
 Kamacho
