@@ -142,7 +142,6 @@ Entity MT
 Sparrow
 Delivery Bike (Manchez Scout)
 Speedo Custom
-Mule Custom
 MOC
 Terrorbyte
 Acid Lab
