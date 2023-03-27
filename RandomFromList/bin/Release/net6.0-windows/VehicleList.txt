@@ -3,7 +3,7 @@ BR8
 Gaunlet Classic Orange
 Tropos Rallye
 Zion
-Banshee 900R
+Banshee 900R 1
 Zentorno
 Stromberg
 Kanjo SJ
@@ -47,7 +47,7 @@ Elegy RH8 1
 Elegy RH8 2
 Banshee Topless 1
 Banshee Topless 2
-Banshee
+Banshee 900R 2
 Zeno
 Nero Custom
 Jester Classic 1
