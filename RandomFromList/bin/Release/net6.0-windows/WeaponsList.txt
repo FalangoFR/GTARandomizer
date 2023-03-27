@@ -84,3 +84,4 @@ Up-n-Atomizer
 Precision Rifle
 Service Carbine
 WM 29 Pistol
+Railgun

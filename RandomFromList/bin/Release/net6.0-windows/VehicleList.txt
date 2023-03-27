@@ -28,7 +28,7 @@ Sentinel Classic
 Infernus Classic
 Viseris
 GT500
-Elegy Retro Custom 2 (Dark Silver)
+Elegy Retro Custom 2
 Furia
 Torero XO
 Komoda
@@ -41,6 +41,7 @@ Gauntlet Classic Custom
 Gauntlet Classic 2
 Elegy Retro Custom 3
 Sanctus
+Powersurge
 Gargoyle
 Elegy RH8 1
 Elegy RH8 2
@@ -65,11 +66,10 @@ Nero
 Coquette D10
 Omnis
 Ignus
-Vortex
 Corsita
 Champion
 Vigero ZX
-Elegy Reto Custom Silver Blue
+Elegy Reto Custom 4 (Silver Blue)
 Turismo R
 Itali GTB Custom
 Huntley S
@@ -125,24 +125,5 @@ Vectre
 Growler
 Infernus
 Omnis e-GT
-Oppressor MKII
 Toreador
-V-65 Molotok
-LF-22 Starling
-Pyro
-Rogue
-Akula
-FH-1 Hunter
-Ramp Buggy
-Blazer Aqua
-Crusader
-Frogger
-Hydra
 Entity MT
-Sparrow
-Delivery Bike (Manchez Scout)
-Speedo Custom
-MOC
-Terrorbyte
-Acid Lab
-
