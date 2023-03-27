@@ -1,6 +1,6 @@
 Deluxo
 BR8
-Gaunlet Classic Orange
+Gaunlet Classic 1 Orange
 Tropos Rallye
 Zion
 Banshee 900R 1
@@ -21,7 +21,7 @@ Visione
 Penetrator
 Raiden
 I-Wagen
-Gauntlet Hellfire Black
+Gauntlet Hellfire 1 Black
 Autarch
 SC1
 Sentinel Classic
@@ -37,12 +37,11 @@ Imorgon
 Entity XF
 Vamos
 Hotring Sabre
-Gauntlet Classic Custom
+Gauntlet Classic Custom 1
 Gauntlet Classic 2
 Elegy Retro Custom 3
-Sanctus
 Powersurge
-Gargoyle
+Sanctus
 Elegy RH8 1
 Elegy RH8 2
 Banshee Topless 1
@@ -66,8 +65,8 @@ Nero
 Coquette D10
 Omnis
 Ignus
+Baller LE LWB (Armored)
 Corsita
-Champion
 Vigero ZX
 Elegy Reto Custom 4 (Silver Blue)
 Turismo R
@@ -81,19 +80,21 @@ Sentinel XS
 Tahoma Coupe
 Drift Tampa
 GP1
-Buffalo STX
+Panthere
 811
-Stinger
+Stinger Topless
 Dominator GTX
 Futo GTX
 Carbomizzare
 Gauntlet Hellfire 2
 Nightshark
 Diety
-Panthere
+Virgo
 Bodhi
+Gargoyle
 Trophy Truck
 Dubsta 6x6
+Entity MT
 Vagner
 Coquette Classic 2
 Emerus
@@ -125,5 +126,6 @@ Vectre
 Growler
 Infernus
 Omnis e-GT
+Buffalo STX
+Champion
 Toreador
-Entity MT
