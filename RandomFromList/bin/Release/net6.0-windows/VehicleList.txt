@@ -116,6 +116,7 @@ Tyrant
 Rebla GTS
 RE-7B
 Gauntlet Hellfire 3
+Ardent
 Entity XXR
 Sugoi
 Kamacho
