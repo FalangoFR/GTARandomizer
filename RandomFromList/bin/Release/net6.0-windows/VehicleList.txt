@@ -117,6 +117,7 @@ Rebla GTS
 RE-7B
 Gauntlet Hellfire 3
 Ardent
+Comet Safari
 Entity XXR
 Sugoi
 Kamacho
