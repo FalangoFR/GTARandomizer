@@ -52,6 +52,7 @@ Nero Custom
 Jester Classic 1
 Jester Classic 2
 Jester Classic 3
+8F Drafter
 Kuruma (Armored)
 Weaponized Tampa
 PR4
@@ -92,7 +93,7 @@ Nightshark
 Windsor Drop
 Virgo
 Bodhi
-Gargoyle
+Apocalypse Deathbike
 Trophy Truck
 Dubsta 6x6
 Entity MT
