@@ -39,22 +39,8 @@ namespace RandomFromList
         }
 
         private int GetRandomNumber(int max)
-        {
-            // Create a buffer to hold the random bytes
-            byte[] randomNumber = new byte[4];
-
-            // Create a new instance of the RNGCryptoServiceProvider
-            using (RNGCryptoServiceProvider rng = new RNGCryptoServiceProvider())
-            {
-                // Generate a random number using the RNGCryptoServiceProvider
-                rng.GetBytes(randomNumber);
-
-                // Convert the random bytes to an integer
-                int value = BitConverter.ToInt32(randomNumber, 0);
-
-                // Ensure that the random number is within the range [0, max)
-                return Math.Abs(value % max);
-            }
+        {          
+            return RandomNumberGenerator.GetInt32(max);
         }
     }
 }
