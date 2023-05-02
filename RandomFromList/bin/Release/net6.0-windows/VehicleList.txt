@@ -38,7 +38,6 @@ Entity XF
 Vamos
 Hotring Sabre
 Gauntlet Classic Custom 1
-Gauntlet Classic 2
 Elegy Retro Custom 3
 Powersurge
 Sanctus
