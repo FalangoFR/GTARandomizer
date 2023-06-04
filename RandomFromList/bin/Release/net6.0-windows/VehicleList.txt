@@ -29,15 +29,16 @@ Infernus Classic
 Viseris
 GT500
 Elegy Retro Custom 2
-Furia
+Dominator
 Torero XO
 Komoda
 Massacro
 Imorgon
 Entity XF
-Vamos
+Verlierer
 Hotring Sabre
 Gauntlet Classic Custom 1
+Flash GT
 Elegy Retro Custom 3
 Powersurge
 Sanctus
@@ -52,12 +53,22 @@ Jester Classic 1
 Jester Classic 2
 Jester Classic 3
 8F Drafter
+Penumbra FF 1
+Comet S2
+Dominator ASP
+Penumbra FF 2
+RT3000
+Cypher
+Cyclone
+Swinger
+X80 Proto
+Adder
+10F
 Kuruma (Armored)
 Weaponized Tampa
 PR4
 Weevil Custom
 Pariah
-Itali RSX
 Barrage
 TM-02 Khanjali
 Jester Classic White
@@ -70,7 +81,6 @@ Corsita
 Neo
 Vigero ZX
 Elegy Reto Custom 4 (Silver Blue)
-Turismo R
 Itali GTB Custom
 Huntley S
 Dune FAV
@@ -111,7 +121,6 @@ Hermes
 Tigon
 Calico GTF
 Hotring Everon
-Virtue
 Tyrant
 Rebla GTS
 RE-7B
@@ -135,4 +144,8 @@ Omnis e-GT
 Buffalo STX
 Champion
 Diety
+Virtue
+Itali RSX
+Furia
+Turismo R
 Toreador
