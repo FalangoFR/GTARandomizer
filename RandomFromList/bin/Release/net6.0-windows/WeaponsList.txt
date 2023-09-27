@@ -85,3 +85,4 @@ Precision Rifle
 Service Carbine
 WM 29 Pistol
 Railgun
+Tactical SMG
