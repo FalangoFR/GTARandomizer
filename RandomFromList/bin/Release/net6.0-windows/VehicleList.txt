@@ -55,6 +55,7 @@ Zombie Chopper
 Bati 801
 Vindicator
 Zombie Bobber
+Reever
 Elegy RH8 1
 Elegy RH8 2
 Banshee Topless 1
@@ -108,6 +109,13 @@ Furore GT
 Cinquemila
 Michelli GT
 La Coureuse
+Chimera
+Baller ST
+Fusilade
+Jackal
+Voltic Topless
+Jubilee
+Shinobi
 Kuruma (Armored)
 Weaponized Tampa
 PR4
