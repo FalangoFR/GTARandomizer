@@ -86,3 +86,5 @@ Service Carbine
 WM 29 Pistol
 Railgun
 Tactical SMG
+Snow Launcher
+Battle Rifle

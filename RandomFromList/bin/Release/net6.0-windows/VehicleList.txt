@@ -75,7 +75,6 @@ RT3000
 Cypher
 Cyclone
 Swinger
-X80 Proto
 Adder
 10F
 Astron
@@ -91,6 +90,7 @@ Vagrant
 Osiris
 T20
 Buffalo EVX
+Tyrus
 Seven-70
 Lynx
 MonstroCiti
@@ -114,8 +114,13 @@ Baller ST
 Fusilade
 Jackal
 Voltic Topless
-Jubilee
+Cheetah
 Shinobi
+Faggio Mod
+Itali GTO Stinger TT
+9F Cabrio
+Revolter
+LM87
 Kuruma (Armored)
 Weaponized Tampa
 PR4
@@ -197,10 +202,13 @@ Buffalo STX
 Champion
 Diety
 Virtue
+Jubilee
 Itali RSX
 Furia
 Turismo R
 Bestia GTS
+X80 Proto
+Monroe
 Toreador
 Technical Aqua
 Ramp Buggy
