@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jusuf\\.nuget\\packages\\": {}
+    "C:\\Users\\jusuf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jusuf\\Documents\\GitHub\\GTARandomizer\\RandomFromList\\RandomFromList.csproj",
+      "projectUniqueName": "C:\\Users\\jusuf\\Desktop\\GTARandomizer\\RandomFromList\\RandomFromList.csproj",
       "projectName": "RandomFromList",
-      "projectPath": "C:\\Users\\Jusuf\\Documents\\GitHub\\GTARandomizer\\RandomFromList\\RandomFromList.csproj",
-      "packagesPath": "C:\\Users\\Jusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jusuf\\Documents\\GitHub\\GTARandomizer\\RandomFromList\\obj\\",
+      "projectPath": "C:\\Users\\jusuf\\Desktop\\GTARandomizer\\RandomFromList\\RandomFromList.csproj",
+      "packagesPath": "C:\\Users\\jusuf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jusuf\\Desktop\\GTARandomizer\\RandomFromList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

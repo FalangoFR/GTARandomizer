@@ -28,60 +28,73 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnRandomWeapon = new System.Windows.Forms.Button();
-            this.txtResult = new System.Windows.Forms.TextBox();
-            this.btnRandomVehicle = new System.Windows.Forms.Button();
-            this.SuspendLayout();
+            btnRandomWeapon = new Button();
+            txtResult = new TextBox();
+            btnRandomVehicle = new Button();
+            btnRandomGame = new Button();
+            SuspendLayout();
             // 
             // btnRandomWeapon
             // 
-            this.btnRandomWeapon.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnRandomWeapon.Location = new System.Drawing.Point(12, 55);
-            this.btnRandomWeapon.Name = "btnRandomWeapon";
-            this.btnRandomWeapon.Size = new System.Drawing.Size(125, 25);
-            this.btnRandomWeapon.TabIndex = 0;
-            this.btnRandomWeapon.Text = "Random Weapon";
-            this.btnRandomWeapon.UseVisualStyleBackColor = true;
-            this.btnRandomWeapon.Click += new System.EventHandler(this.btnRandomWeapon_Click);
+            btnRandomWeapon.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            btnRandomWeapon.Location = new Point(14, 73);
+            btnRandomWeapon.Margin = new Padding(3, 4, 3, 4);
+            btnRandomWeapon.Name = "btnRandomWeapon";
+            btnRandomWeapon.Size = new Size(143, 33);
+            btnRandomWeapon.TabIndex = 0;
+            btnRandomWeapon.Text = "Random Weapon";
+            btnRandomWeapon.UseVisualStyleBackColor = true;
+            btnRandomWeapon.Click += btnRandomWeapon_Click;
             // 
             // txtResult
             // 
-            this.txtResult.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtResult.Location = new System.Drawing.Point(12, 26);
-            this.txtResult.Name = "txtResult";
-            this.txtResult.ReadOnly = true;
-            this.txtResult.Size = new System.Drawing.Size(260, 23);
-            this.txtResult.TabIndex = 1;
+            txtResult.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            txtResult.Location = new Point(14, 35);
+            txtResult.Margin = new Padding(3, 4, 3, 4);
+            txtResult.Name = "txtResult";
+            txtResult.ReadOnly = true;
+            txtResult.Size = new Size(297, 27);
+            txtResult.TabIndex = 1;
             // 
             // btnRandomVehicle
             // 
-            this.btnRandomVehicle.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnRandomVehicle.Location = new System.Drawing.Point(147, 55);
-            this.btnRandomVehicle.Name = "btnRandomVehicle";
-            this.btnRandomVehicle.Size = new System.Drawing.Size(125, 25);
-            this.btnRandomVehicle.TabIndex = 2;
-            this.btnRandomVehicle.Text = "Random Vehicle";
-            this.btnRandomVehicle.UseVisualStyleBackColor = true;
-            this.btnRandomVehicle.Click += new System.EventHandler(this.btnRandomCar_Click);
+            btnRandomVehicle.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            btnRandomVehicle.Location = new Point(168, 73);
+            btnRandomVehicle.Margin = new Padding(3, 4, 3, 4);
+            btnRandomVehicle.Name = "btnRandomVehicle";
+            btnRandomVehicle.Size = new Size(143, 33);
+            btnRandomVehicle.TabIndex = 2;
+            btnRandomVehicle.Text = "Random Vehicle";
+            btnRandomVehicle.UseVisualStyleBackColor = true;
+            btnRandomVehicle.Click += btnRandomCar_Click;
+            // 
+            // btnRandomGame
+            // 
+            btnRandomGame.Location = new Point(102, 113);
+            btnRandomGame.Name = "btnRandomGame";
+            btnRandomGame.Size = new Size(119, 29);
+            btnRandomGame.TabIndex = 3;
+            btnRandomGame.Text = "Random Game";
+            btnRandomGame.UseVisualStyleBackColor = true;
+            btnRandomGame.Click += btnRandomGame_Click;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoSize = true;
-            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(284, 99);
-            this.Controls.Add(this.btnRandomVehicle);
-            this.Controls.Add(this.txtResult);
-            this.Controls.Add(this.btnRandomWeapon);
-            this.Name = "Form1";
-            this.Text = "Random Weapon";
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            AutoSize = true;
+            AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            BackgroundImageLayout = ImageLayout.None;
+            ClientSize = new Size(325, 151);
+            Controls.Add(btnRandomGame);
+            Controls.Add(btnRandomVehicle);
+            Controls.Add(txtResult);
+            Controls.Add(btnRandomWeapon);
+            Margin = new Padding(3, 4, 3, 4);
+            Name = "Form1";
+            Text = "Random Weapon";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -89,5 +102,6 @@
         private Button btnRandomWeapon;
         private TextBox txtResult;
         private Button btnRandomVehicle;
+        private Button btnRandomGame;
     }
 }

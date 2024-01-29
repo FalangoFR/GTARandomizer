@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RandomFromList
-build_property.ProjectDir = C:\Users\Jusuf\Documents\GitHub\GTARandomizer\RandomFromList\
+build_property.ProjectDir = C:\Users\jusuf\Desktop\GTARandomizer\RandomFromList\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
